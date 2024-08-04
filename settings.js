@@ -10,19 +10,19 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : FFA-BOT
+Creator : @Shabanix , @mr-nima-x
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "256709489523",
+  SUDO_NUMBERS : ",94719574492",
+  OWNER_NAME: "『 Shabanix 』",
+  BOT_NAME : "FFA BOT",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://ibb.co/qxy7tZj',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -31,7 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "East africa/Nairobi",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
